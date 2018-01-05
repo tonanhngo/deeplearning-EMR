@@ -12,7 +12,7 @@ Reflecting on the doctors' choices, one can easily spot the problem. As in the s
 
 ![](images/EHR-screen.jpg)
 
-In this regard, the existing EHR user interface simply does not work well for the doctors.  The solution that some are adopting is basically to circumvent the user interface altogether by substituting a human to perform as the interface. In fact, this need has given rise to new companies providing the human transcription service for EHR, but this ad hoc solution cannot be a very satisfying answer for the EHR industry.
+In this regard, the existing EHR user interface simply is not a good fit for the doctor/patient environment.  The solution that some are adopting is basically to circumvent the user interface altogether by substituting a human to perform as the interface. In fact, this need has given rise to new companies providing the human transcription service for EHR, but this ad hoc solution cannot be a very satisfying answer for the EHR industry.
 
 Can the computer interface be improved so that the users would not feel compelled to circumvent it?  Advanced EHR systems do allow varying degree of customization and short cut to help alleviate the problem.  One technique is to create templates for common patterns.  For example, a child typically comes to the pediatric clinic either because of illness or for a routine check up. In this case, two different templates can be created that would contain different flows for data entries to make the interface more intuitive and productive.    
 
